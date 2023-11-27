@@ -1,2 +1,2 @@
 # ETL
-# Prepare the lab environment
+## Prepare the lab environment
